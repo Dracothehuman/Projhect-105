@@ -1,0 +1,21 @@
+body
+{
+    color:darkred;
+    background:blueviolet;
+}
+.heading
+{
+    width:30%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 5px ridge;
+    width: 300px;
+    height:300px;
+}
+.name_of_objects, #object, #Accuracy
+{
+    color:dodgerblue;
+    font-size: 30px;
+}  
